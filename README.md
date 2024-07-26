@@ -16,7 +16,7 @@
    <li>Refine and optimize the prompt: provide a few examples to ChatGPT4, additional information, and ask ChatGPT4 to change and restructure the website.</li><ul/></div>
       
  ### 5. Generate link:<br>
-      https://oceanwonders.com/oceans/overview <br>
+   https://oceanwonders.com/ <br>
  ### 6. Print the webpage as a PDF and document the procedures.
    
    
