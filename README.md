@@ -25,6 +25,8 @@
       
  ### 5. Generate link in Websim. ai:<br>
    https://oceanwonders.com/ <br>
+   https://websim.ai/ocean-life/testimonials/submit![image](https://github.com/user-attachments/assets/b94bcd5f-2482-46e0-80ae-6092d703ee7d)<br>
+
  ### 6. Print the webpage as a PDF and document the procedures and prompts.
  ### 7. Generate report in Google slide
  https://docs.google.com/presentation/d/1A4-7ppT-wfwx-UUBxp_Sg0cRPy6XbAovQBQQjht_dNI/edit?usp=sharing<br>
